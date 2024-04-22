@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 images
 
-<img width="800" height="500" alt="Simulator" src="https://github.com/ndridm2/mini_learn_carousel/assets/64353589/4fd5f02c-d94a-4871-8400-216f26941df5">
+![Screenshot 2024-04-22 at 13 34 25](https://github.com/ndridm2/mini_learn_carousel/assets/64353589/c3817093-f68c-45bb-88f0-e5665f84b204)
