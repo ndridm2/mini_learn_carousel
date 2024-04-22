@@ -26,8 +26,6 @@ class _HomePageState extends State<HomePage> {
     {"image": "assets/img/image2.JPG", "title": ""},
   ];
 
-  final List itemList = ['Trending', 'Following', 'Saved', 'Profile'];
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
