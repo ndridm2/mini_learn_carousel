@@ -16,5 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 images
-
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-22 at 13 16 45](https://github.com/ndridm2/mini_learn_carousel/assets/64353589/642a7fd9-9f48-4012-968e-4e4e33b985e8)
+<img width="400" height="200" alt"![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-22 at 13 16 45]" src"https://github.com/ndridm2/mini_learn_carousel/assets/64353589/642a7fd9-9f48-4012-968e-4e4e33b985e8">
